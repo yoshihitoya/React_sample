@@ -1,0 +1,51 @@
+{
+    "alignment.chars": {
+
+        ":": {
+            "spaceBefore": 0,
+            "spaceAfter": 1
+        },
+        "::": {
+            "spaceBefore": 0,
+            "spaceAfter": 0
+        },
+        "=": {
+            "spaceBefore": 1,
+            "spaceAfter": 1
+        },
+        "===": {
+            "spaceBefore": 1,
+            "spaceAfter": 1
+        },
+        "==": {
+            "spaceBefore": 1,
+            "spaceAfter": 1
+        },
+        "=>": {
+            "spaceBefore": 1,
+            "spaceAfter": 1
+        },
+        "+=": {
+            "spaceBefore": 1,
+            "spaceAfter": 1
+        },
+        "-=": {
+            "spaceBefore": 1,
+            "spaceAfter": 1
+        },
+        "*=": {
+            "spaceBefore": 1,
+            "spaceAfter": 1
+        },
+        "/=": {
+            "spaceBefore": 1,
+            "spaceAfter": 1
+        }
+    }
+    
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    }
+}
